@@ -1,6 +1,6 @@
 package com.coffee.modelParsers.ExpresionHLVLPackage;
 
-import com.coffee.modelParsers.basicHLVLPackage.HlvlBasicKeys;
+import com.github.coffeeframework.basickhlvlpackage.HlvlBasicKeys;
 
 public class HlvlExpressionParser implements HlvlExpresionFunctions, HlvlExpressionKeys, HlvlBasicKeys {
 
